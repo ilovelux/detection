@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tensorflow Object Detection API Web Service
 
 te1This is an example of how to turn the [TensorFlow Object API](https://github.com/tensorflow/models/tree/master/research/object_detection) into a web service. 
@@ -81,3 +82,6 @@ Data tags:
  i.e. `http://localhost:5000/image`
 
 
+=======
+# detection
+>>>>>>> branch 'master' of https://github.com/ilovelux/detection.git
